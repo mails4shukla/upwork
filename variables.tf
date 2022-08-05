@@ -1,7 +1,4 @@
-variable "aws_region" {
-  description = "Region for AWS"
-  type        = string
-}
+
 
 variable "api_name" {
   description = "API NAME"
